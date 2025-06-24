@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+
+# Build results
+bin/
+obj/
+
+# Logs
+*.log
+
+# Rider/JetBrains
+.idea/
+
+# Visual Studio Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
